@@ -43,7 +43,7 @@ author:
   email:             bjgrant@ucsd.edu
 
 # Fallback image and color (note you can have a page specific sidebar image and color from yml)
-image:               /bggn213_WF5/assets/img/dna_BCK.jpg
+image:               /bggn213_F25/assets/img/dna_BCK.jpg
 ##-image: '{{ baseurl }}/assets/img/dna.jpg'
 color:               '#4f86aa'
 
