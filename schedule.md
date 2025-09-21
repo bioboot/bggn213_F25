@@ -99,7 +99,7 @@ Biology is an information science, History of Bioinformatics, Types of data, App
 
 
 **Homework**:  
-- [Questions](https://forms.gle/JH4PFj3ETVFDVPXu7){:.no-push-state}{:target="_blank"},  
+- Answer the *`01_HW_quiz`* questions on [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},  
 - Submit your completed lab report (i.e. filled in PDF form) to [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},  
 - Readings: 
   - PDF1: [What is bioinformatics? An introduction and overview]({{ site.baseurl }}/class-material/bioinformatics_review.pdf){:.no-push-state},  
@@ -139,7 +139,7 @@ Sequence Alignment and Database Searching: Homology, Sequence similarity, Local 
 
 
 **Homework**:   
-- [Questions](https://forms.gle/jCPEbKHT5TbpQd539){:.no-push-state}{:target="_blank"},  
+- Answer the *`02_HW_quiz`* questions on [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},    
 - Submit your completed lab report (i.e. filled in PDF form) to [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},  
 - *OPTIONAL:* Complete the following [Alignment Problem]({{ site.baseurl }}/class-material/wk2_homework.pdf){:.no-push-state}{:target="_blank"},  
 - For next week please [install R and RStudio](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu){:.no-push-state}{:target="_blank"},  
@@ -240,7 +240,7 @@ Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major
 
 
 **Homework**:   
-- [Questions](https://forms.gle/CZB19o74X8oGqGjX8){:.no-push-state}{:target="_blank"},  
+- Answer the *`04_HW_quiz`* questions on [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},  
 - **DataCamp**: Make sure you have joined our DataCamp **25_bioinformatics** group and then complete the [Introduction to R!](https://learn.datacamp.com/courses/free-introduction-to-r){:.no-push-state}{:target="_blank"} course (4hrs).  
     
 
@@ -279,7 +279,7 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
  
  
 **Homework**:   
-- [Questions](https://forms.gle/tA4CW1uWBiLSVaqbA){:.no-push-state}{:target="_blank"},  
+- Answer the *`05_HW_quiz`* questions on [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},    
 - Submit your completed PDF lab report to [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},  
 - DataCamp: [Introduction to Data Visualization with ggplot2](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2){:.no-push-state}{:target="_blank"} (~4hrs).    
 - SideNote: [Convincing with graphics](https://xkcd.com/833/){:.no-push-state}.  
@@ -318,7 +318,7 @@ The why, when and how of writing your own R functions with worked examples. Furt
 
  
 **Homework**:  
-- [Questions](https://forms.gle/G8ay9rxStebrHgSm7){:.no-push-state}{:target="_blank"},   
+- Answer the *`06_HW_quiz`* questions on [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},   
 - Submit your completed PDF lab report to [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},  
 - **Write a function**: See **Q6** of the [hands-on lab supplement above]({{ site.baseurl }}/class-material/lab-6-bggn213.pdf){:.no-push-state}{:target="_blank"}. This entails turning a supplied code snippet into a more robust and re-usable function that will take any of the three listed input proteins and plot the effect of drug binding. Note assessment rubric and submission instructions within document.    
 - **DataCamp**: Please work toward completing any outstanding courses including [Intro to R](https://learn.datacamp.com/courses/free-introduction-to-r){:.no-push-state}{:target="_blank"}, [Intro to ggplot2](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2){:.no-push-state}{:target="_blank"} and [Intermediate R](https://learn.datacamp.com/courses/intermediate-r){:.no-push-state}{:target="_blank"}.   
