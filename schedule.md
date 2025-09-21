@@ -100,7 +100,7 @@ Biology is an information science, History of Bioinformatics, Types of data, App
 
 **Homework**:  
 - Answer the *`01_HW_quiz`* questions on [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},  
-- Submit your completed lab report (i.e. filled in PDF form) to [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},  
+- Submit your completed lab report (i.e. filled in PDF form) to *`01_Lab_Class1`* on [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},  
 - Readings: 
   - PDF1: [What is bioinformatics? An introduction and overview]({{ site.baseurl }}/class-material/bioinformatics_review.pdf){:.no-push-state},  
   - PDF2: [Advancements and Challenges in Computational Biology]({{ site.baseurl }}/class-material/bioinformatics_challenges_2015.pdf){:.no-push-state}.  
