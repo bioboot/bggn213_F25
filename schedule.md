@@ -274,6 +274,8 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture5-BGGN213-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture5-BGGN213-small.pdf){:.no-push-state}{:target="_blank"},  
 - Lab: [Hands-on worksheet]({{ site.baseurl }}/class-material/lab5.html){:.no-push-state}{:target="_blank"},
 - Lab: Live screencast [video walk-through](https://youtu.be/pNXD_QYLrVU){:target="_blank"}{:.no-push-state},   
+- LLM Guide: [**NoteBookLM**: R Foundations for Data Analysis and Visualization](https://notebooklm.google.com/notebook/b705e744-3827-4f56-8ac4-c428f774b0f9){:.no-push-state}{:target="_blank"},  
+- TritonGPT: [Custom course specific private LLM tailored for teaching](https://tritongpt.ucsd.edu/chat){:.no-push-state}{:target="_blank"} click *"Explore Assistants > BGGN213 Bioinformatics Lab Assistant > Chat"*,  
 - Student Hours: [{{ site.data.authors.corelinks.officetime }}]({{ site.data.authors.corelinks.officehours }}){:.no-push-state}{:target="_blank"},   
 - Feedback: [Muddy point assessment](https://forms.gle/FJHD9Bnrmgj32Tk69){:.no-push-state}{:target="_blank"},  
  
