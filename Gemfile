@@ -2,6 +2,11 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2.0"
 
+gem "csv"
+gem "base64"
+gem "logger"
+gem "bigdecimal"
+
 gem "jekyll-default-layout", "~> 0.1"
 gem "jekyll-feed", "~> 0.9"
 gem "jekyll-optional-front-matter", "~> 0.2"
