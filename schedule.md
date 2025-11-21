@@ -597,7 +597,8 @@ A mini-project whre we use bespoke cloud computing resources to query, download,
 
 - Lab: [Obtaining and processing SRA datasets on AWS]({{ site.baseurl }}/class-material/aws_03.html){:.no-push-state}{:target="_blank"},  
 - AWS Console URL: [https://awsed.ucsd.edu/](https://awsed.ucsd.edu/){:.no-push-state}{:target="_blank"}. 
-- Paper: [“A Quick Guide to Organizing Computational Biology Projects"](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424){:.no-push-state}{:target="_blank"}.  
+- Paper: [“A Quick Guide to Organizing Computational Biology Projects"](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424){:.no-push-state}{:target="_blank"}. 
+- NoteBookLLM: [Cloud bioinformatics with AWS](https://notebooklm.google.com/notebook/1e8d1498-5651-4ee5-808b-77f04609eede){:.no-push-state}{:target="_blank"}.   
 
 
 
