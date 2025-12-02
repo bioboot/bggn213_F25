@@ -658,10 +658,14 @@ Happy thanksgiving folks\!
 **Topics:** 
 A topical mini-project using web-scraping, JSON based APIs and advanced dplyr and ggplot to investigate new datasets associated with pertussis cases and longitudinal RNA-Seq on the immune response to distinct vaccination strategies. This class will be co-taught with **Dr. Bjoern Peters** from the La Jolla Institute for Immunology.  
 
-- Lab: [Investigating pertussis resurgence mini-project](https://bioboot.github.io/cmi-pb_teaching/introduction/intro_to_cmi-pb.html){:.no-push-state}{:target="_blank"} **submit your lab report to gradescope**, 
-- Lecture Slides: [Large PDF](https://bioboot.github.io/cmi-pb_teaching/slides/slides_class18_2update.pdf){:.no-push-state}{:target="_blank"},  
-- Additional resources: [CDC pertussis tracking data](https://www.cdc.gov/pertussis/surv-reporting/cases-by-year.html){:.no-push-state}{:target="_blank"}, The [CMI-PB resource]( https://www.cmi-pb.org/){:.no-push-state}{:target="_blank"}, Pertussis [annotated timeline](https://bioboot.github.io/cmi-pb_teaching/timeline/pertussis_timeline.html){:.no-push-state}{:target="_blank"}, [CDC numbers]({{ site.baseurl }}/class-material/cdc_pertussis.csv){:.no-push-state}.  
-- Feedback: [**Feedback for Bjoern**](https://forms.gle/SAVof9Hev7V6Ym7k7){:.no-push-state}.
+- Lab: [Investigating pertussis resurgence mini-project](https://bioboot.github.io/cmi-pb_teaching/introduction/intro_to_cmi-pb.html){:.no-push-state}{:target="_blank"} **submit to gradescope**,  
+- Additional resources:
+  * Slides [Large PDF](https://bioboot.github.io/bimm143_F25/class-material/lecture18_BIMM143-large.pdf){:.no-push-state}{:target="_blank"},   
+  * CDC pertussis [case tracking data](https://www.cdc.gov/pertussis/php/surveillance/pertussis-cases-by-year.html){:.no-push-state}{:target="_blank"},
+  * Timeline of [major milestones in our history with Pertussis](https://bioboot.github.io/cmi-pb_teaching/timeline/pertussis_timeline.html){:.no-push-state}{:target="_blank"},  
+  * The [CMI-PB resource]( https://www.cmi-pb.org/){:.no-push-state}{:target="_blank"},  
+  * [NotebookLM Ai resource](https://notebooklm.google.com/notebook/88da1cb6-860e-40e1-95dc-94d04b7b57c4){:.no-push-state}{:target="_blank"},  
+- Feedback: [Muddy-Point-Assessment](https://forms.gle/5vfeDMxYeLdujUVg7){:.no-push-state}{:target="_blank"}.    
 
 
 **Homework**:   
