@@ -686,7 +686,7 @@ Course review and feedback. Making a public facing GitHub pages portfolio of you
 **Videos:**  
 - 20.1 - OPTIONAL: [Git for humans](https://youtu.be/eWxxfttcMts){:.no-push-state}{:target="_blank"}, 
 - 20.2 [Introduction to GitHub Pages](https://youtu.be/2MsN8gpT6jY){:.no-push-state}{:target="_blank"} that we will use for building your portfolio website.
-- 20.3 [**Live stream interview**](https://youtu.be/UFYeovcGcwY){:.no-push-state}{:target="_blank"} with leading bioinformatics and genomics scientists from industry including **Dr Ali Crawford** (Associate Director, Scientific Research, *Illumina Inc.*), **Dr. Bjoern Peters** (Full Professor and Principal Investigator, *La Jolla Institute*) and **Dr. Ana Grant** (Director of Research Informatics, *Synthetic Genomics Inc.*).
+- 20.3 [Live stream interview](https://youtu.be/UFYeovcGcwY){:.no-push-state}{:target="_blank"} with leading bioinformatics and genomics scientists from industry including **Dr Ali Crawford** (Associate Director, Scientific Research, *Illumina Inc.*), **Dr. Bjoern Peters** (Full Professor and Principal Investigator, *La Jolla Institute*) and **Dr. Ana Grant** (Director of Research Informatics, *Synthetic Genomics Inc.*).
 
 
 **Supporting material:**
